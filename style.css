@@ -70,3 +70,9 @@ body {
 h3, h1, p {
     margin-left: 5px;
 }
+
+.mySlides {
+  display: none;
+  max-height: 500px;
+  max-width: 500px;
+}
