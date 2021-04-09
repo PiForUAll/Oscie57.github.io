@@ -1,0 +1,12 @@
+.madeby {
+    position: absolute;
+    bottom: 8px;
+    text-align: left;
+    left: 8px
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+    padding-left: 0%;
+}
