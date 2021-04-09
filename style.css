@@ -67,6 +67,15 @@ body {
   margin-left: 20px;
 }
 
+.vcvideo {
+  margin-left: 20px;
+}
+
+.tldr {
+  padding-left: 5px;
+  font-size: 20px;
+}
+
 h3, h1, p {
     margin-left: 5px;
 }
