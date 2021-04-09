@@ -55,10 +55,18 @@ body {
     left: 8px
   }
 
-.links {
+.archives {
     margin-left: 20px;
 }
 
-h3, h1 {
+.messages {
+  margin-left: 20px;
+}
+
+.project {
+  margin-left: 20px;
+}
+
+h3, h1, p {
     margin-left: 5px;
 }
