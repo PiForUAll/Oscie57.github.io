@@ -1,0 +1,60 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+    padding-left: 0%;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+    font-family: 'Roboto', sans-serif;
+    background-color: #23272A;
+    overflow: hidden;
+}
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    font-family: 'Roboto', sans-serif;
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    font-family: 'Roboto', sans-serif;
+    background-color: #474747;
+    color: white;
+}
+  
+  /* Add an active class to highlight the current page */
+  .topnav a.active {
+    font-family: 'Roboto', sans-serif;
+    background-color: #111111;
+    color: white;
+}
+  
+  /* Hide the link that should open and close the topnav on small screens */
+  .topnav .icon {
+    font-family: 'Roboto', sans-serif;
+    display: none;
+}
+
+  /* Makes hyperlinks same colour as text */
+  a {
+    color: black;
+}
+
+.madeby {
+    position: absolute;
+    bottom: 8px;
+    text-align: left;
+    left: 8px
+}
+
+h3, h1, p {
+    margin-left: 5px;
+}
