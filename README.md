@@ -1,2 +1,2 @@
 # Oscar57.github.io
-### heheheh cdn
+netlify is ass
