@@ -55,6 +55,14 @@ body {
     left: 8px
 }
 
-h3, h1, p {
-    margin-left: 5px;
+h3, h1, p, h2 {
+    margin-left: 25px;
+}
+
+.folder {
+  padding-left: 25px
+}
+
+.folder p {
+  padding-left: 15px
 }
