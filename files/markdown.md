@@ -1,6 +1,12 @@
 # How Markdown works.
 Markdown, is well, interesting. It has some things from a normal text file, like this, but with `#`, that can change. Here is a table that shows what everything looks like, sort of equivalent to `html` headers.
 
+If you are reading this on my [cdn](https://cdn.oscie.tk/files/markdown.md) then run this command in PowerShell
+
+    wget https://cdn.oscie.tk/files/markdown.md -outfile markdown.md
+
+then go and find the file in your Users folder. From there you would want to find a Markdown viewer, though I have no clue what can.
+
 | #'s        | HTML Equivalent |
 | ---------- | --------------- |
 | #          | h1 (biggest)    |
