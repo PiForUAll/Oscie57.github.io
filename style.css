@@ -1,6 +1,8 @@
 @import "compass/css3";
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
 body {
-    font-family: 'Gilroy';
+    font-family: 'Lato', sans-seirf;
     background-color: #2C2F33;
     color: white;
     margin: 0px;
